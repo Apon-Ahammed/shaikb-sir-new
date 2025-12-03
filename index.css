@@ -1,0 +1,99 @@
+*{
+     font-family: "Poppins", sans-serif;
+}
+
+.ami{
+
+    background-image:url('./image/Rectangle\52.png');
+    background-color: red;
+    
+}
+
+.col{
+
+    width: 30%;
+}
+
+.pera{
+
+    font-size: 30px;
+    font-family: semibold;
+    color: gray;
+    line-height: 54px;
+}
+.sp{
+
+    color: black;
+}
+
+/* section3 */
+
+.main{
+
+    position: relative;
+}
+
+.midle{
+
+    position: absolute;
+    top: 40px;
+    justify-content: center;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+   
+}
+.Best{
+
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 100%;
+}
+
+.sale{
+
+    columns: white;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 120%;
+    text-align: center;
+
+}
+
+.btn{
+
+    background-color: white;
+    text-align: center;
+    padding: 10px 20px 10px 20px;
+    color: black;
+    border-radius: 25px;
+    width: 50%;
+}
+
+.parent{
+
+    display: grid;
+    grid-row: 6;
+    grid-template-rows: 6;
+    
+
+}
+
+.one{
+
+    border: 1px solid gray;
+    border-radius: 2px;
+    padding: 10px;
+    text-align: center;
+    justify-items: center;
+    border-radius: 5px;
+
+}
+
+
+
+
+
+
+
