@@ -36,13 +36,25 @@
 .midle{
 
     position: absolute;
-    top: 40px;
-    justify-content: center;
-    justify-content: center;
-    align-items: center;
+    top: 50px;
+    padding-left: 40px;
+    
+   
     text-align: center;
    
 }
+
+.midlel{
+
+    position: absolute;
+    top: 70px;
+    padding-right: 0px;
+    text-align: center;
+   
+}
+
+
+
 .Best{
 
     color: white;
@@ -91,7 +103,10 @@
 
 }
 
+ul li{
 
+    color: green;
+}
 
 
 
